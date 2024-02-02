@@ -30,6 +30,6 @@
 
 ## Demo Proyek
 <ul>
-  <li>Github: <a href="">Github</a></li>
+  <li>Github: <a href="https://github.com/HirapuAH/STTB_kel12_223PA/blob/main/votings/src/main/java/votings/Votings.java">Github</a></li>
   <li>Youtube: <a href="">Youtube</a></li>
 </ul>
