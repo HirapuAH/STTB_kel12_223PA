@@ -79,7 +79,7 @@
 •	Iterasi untuk mencari peserta berdasarkan nama dan menampilkan detailnya.<br>
 #	Fungsi:<br>
 •	Memungkinkan pengguna untuk mencari peserta yang telah memberikan suara.
-/p>
+</p>
 <p><h4>8. Menu Keluar</h4></p>
 <p>
 #	Materi: Loop dan Penggunaan boolean<br>
