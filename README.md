@@ -90,7 +90,9 @@
 </p>
 
 ## Pembagian Tim
-<p>Lorem ipsum sir dolor amet.</p>
+<p>Hilbram Ramadhan Putra : Dokumentasi dan Perancangan Apliksi</p>
+<p>M Syahdanu Al Ghifary  : Editing Video dan Mengatur persiapan presentasi</p>
+<p>Muhammad Mulqi Sapi'i  : Perancangan Aplikasi dan Ide-ide Aplikasi</p>s
 
 ## Demo Proyek
 <ul>
